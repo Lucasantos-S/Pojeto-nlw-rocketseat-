@@ -8,43 +8,43 @@
 
 <ul>
     <p align="center">
-    <a class="title" href="#home">Início</a> .
-    <a class="title" href="#sobre">Sobre</a> .
-    <a class="title" href="#serviços">Serviços</a> .
-    <a class="title"  class="title"href="#depoimentos"> Depoimentos</a> .
-    <a class="title" href="#contatos">Contato</a> .
+    <a class="title" href="#Home">Início</a> .
+    <a class="title" href="#Sobre">Sobre</a> .
+    <a class="title" href="#Serviços">Serviços</a> .
+    <a class="title"  class="title"href="#Depoimentos"> Depoimentos</a> .
+    <a class="title" href="#Contatos">Contato</a> .
     </p>
 </ul>
 
 
-# home
+# Home
 <P>
-<img alt="logo" title="logo" src="img/imagehome.JPG">
+<img alt="home" title="home" src="img/imagehome.JPG">
 </h1>
 </P>
 
-# sobre
+# Sobre
 <P>
-<img alt="logo" title="logo" src="img/sobre.gif">
+<img alt="sobre" title="sobre" src="img/sobre.gif">
 </h1>
 </P>
 
-# serviços
+# Serviços
 <P>
-<img alt="logo" title="logo" src="img/servicos.gif">
+<img alt="Serviços" title="Serviços" src="img/servicos.gif">
 </h1>
 </P>
 
-# depoimentos
+# Depoimentos
 <P>
-<img alt="depoimentos" title="depoimentos" src="img/depoimentos.gif">
+<img alt="Depoimentos" title="Depoimentos" src="img/depoimentos.gif">
 </h1>
 </P>
 
 
-# contatos
+# Contatos
 <P>
-<img alt="logo" title="logo" src="img/contatos.gif">
+<img alt="Contatos" title="Contatos" src="img/contatos.gif">
 </h1>
 </P>
 
